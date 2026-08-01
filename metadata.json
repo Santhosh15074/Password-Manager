@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Vault - Zero-Knowledge Password Manager",
+  "description": "Zero-knowledge full-stack password manager with client-side AES-256-GCM encryption, PBKDF2 key derivation, real-time vault search, strong password generator, security audit dashboard, rate-limited Express API, and crypto inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
